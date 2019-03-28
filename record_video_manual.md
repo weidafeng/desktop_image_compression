@@ -14,7 +14,7 @@
 
 ### 2.设置录屏软件（以保证录制视频的高清晰度）
 
- <img src="image/setting1.png" width="1000px"/>  
+ <img src="image/setting1.png" >  
 
   ![image_设置录屏1](image/setting2.png)  
   
